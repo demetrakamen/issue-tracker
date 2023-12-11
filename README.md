@@ -9,3 +9,6 @@
 1. Add new issue
 2. Resolve issue - Click the button (three dots) on the left corner of the row and choose "Resolve."
 3. Edit issue - Click the button (three dots) on the left corner of the row and choose "Edit."
+
+# Try Demo
+https://iridescent-conkies-81a193.netlify.app/
